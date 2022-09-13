@@ -4,7 +4,7 @@ export default function Sidebar() {
   return (
     <div className='sidebar'>
       <div className="sidebarItem">
-        <span className="sidebarTitle">ABOUT Me</span>
+        <span className="sidebarTitle">ABOUT ME</span>
         <img src="https://images.unsplash.com/photo-1541363111435-5c1b7d867904?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZHVtbXl8ZW58MHx8MHx8" alt="" />
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel et aspernatur sunt quaerat ea soluta sint, quae veritatis temporibus natus animi. Reprehenderit quaerat quidem quasi beatae maiores minima, quas quos!</p>
       </div>
